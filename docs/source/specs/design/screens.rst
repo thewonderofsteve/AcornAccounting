@@ -877,7 +877,7 @@ The table should have 5 columns:
 #. Child Header Totals
 #. Root Header/Cacluation Total
 
-Names should be indented by their depth level. Only root Headers, their
+Names should be indented by their depth level. Only Root Header Total, their
 children and grandchildren should have their totals shown. The general layout
 will look like::
 
